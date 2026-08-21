@@ -1,14 +1,14 @@
-# Apex Portfolio - [Iggy Anderson]
+# Apex Portfolio - Iggy Anderson
 
-This repository contains my student portfolio for the **Apex [Creative Computing / Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
+This repository contains my student portfolio for the **Apex Cybersecurity Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
 ## Portfolio
 
-**[Open Portfolio](https://iggythefish.github.io/APEX-portfolio/)**
+**[Open Portfolio](https://iggythefish.github.io/apex-portfolio/)**
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [2028]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to either go into the avation or cyber security field. I am interested in [intersests]
 
 ## Portfolio Contents
 
