@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Iggy Li Anderson
+# Iggy Anderson
 
 ## Apex Cybersecurity Portfolio
 
