@@ -5,9 +5,9 @@ title: Resume
 
 # Iggy Anderson
 
-[City, State]  
-[School-approved or professional email]  
-[GitHub profile link]  
+boulder, colorado 
+eosamalianderson@gmail.com  
+(https://github.com/Iggythefish)  
 [Portfolio and/or LinkedIn link]
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
@@ -98,10 +98,10 @@ Delete this section until you have a certification, credential, or certification
 
 ## Education
 
-### [Home High School Name]
+### New vista high school
 
-[City, State]  
-Expected graduation: [Month Year]
+boulder, colorado  
+Expected graduation: may 2028
 
 ### Apex [Creative Computing / Cybersecurity] Pathway
 
