@@ -15,17 +15,17 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### CS-lab workstation
+<p class="artifact-meta">Image | August 2026</p>
 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">collaboration</span>
+<span class="skill-tag">responsibility and reliability</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/workstation/)
 
 </div>
 
