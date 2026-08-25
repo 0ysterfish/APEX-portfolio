@@ -15,10 +15,11 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### CS-lab workstation
+### CS-lab workstation and rack setup
 <p class="artifact-meta">Image | August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+this is an image of one of the computer workstations I assembled and set up with my assigned partner, Jasiahs, for the CS lab launch. during this project we assembled the monitors, did our best at cable management, and tested the workstations to make sure they functioned well. 
+ 
 
 **Skills demonstrated:**
 
