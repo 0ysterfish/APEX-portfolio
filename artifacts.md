@@ -19,8 +19,7 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 <p class="artifact-meta">Image | August 2026</p>
 
 this is an image of one of the computer workstations I assembled and set up with my college, Jasiahs, for the CS lab launch. during this project we assembled the monitors, did our best at cable management, and tested the workstations to make sure they functioned well. 
-as well as setting up the server rack with my college Nyx. we overcame roadblocks caused by not having the necessary tools and started assembling our class server rack.
- 
+as well as an image of me setting up the server rack with my college Nyx. we overcame roadblocks caused by not having the necessary tools and started assembling our class server rack.
 
 **Skills demonstrated:**
 
