@@ -4,11 +4,11 @@ This repository contains my student portfolio for the **Apex Cybersecurity Pathw
 
 ## Portfolio
 
-**[Open Portfolio](https://iggythefish.github.io/apex-portfolio/)**
+**[Open Portfolio](https://iggythefish.github.io/APEX-portfolio/)**
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to either go into the avation or cyber security field. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to either go into the avation or cyber security field. I am interested in interests 
 
 ## Portfolio Contents
 
