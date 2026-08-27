@@ -32,17 +32,17 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### [Three lense feild guide]
+<p class="artifact-meta">[PDF] | [August 2026]</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+A one page guide I made about the three lenses to illustrate my knowlege on networking security and IA
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Able to define key concepts</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Three lenses/)
 
 </div>
 
