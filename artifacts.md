@@ -40,7 +40,6 @@ This is a one page guide I made about the three lenses to illustrate my knowlege
 **Skills demonstrated:**
 
 <span class="skill-tag">Able to define key concepts</span>
-<span class="skill-tag">[Skill]</span>
 
 [View Artifact](artifacts/Three lenses/)
 
