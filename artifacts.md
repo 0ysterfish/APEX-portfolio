@@ -35,7 +35,7 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 ### [Three lense feild guide]
 <p class="artifact-meta">[PDF] | [August 2026]</p>
 
-A one page guide I made about the three lenses to illustrate my knowlege on networking security and IA
+This is a one page guide I made about the three lenses to illustrate my knowlege on networking security and IA. I took notes and learnt key concepts including, the CIA triad, The three lenses, and the three states of data.
 
 **Skills demonstrated:**
 
