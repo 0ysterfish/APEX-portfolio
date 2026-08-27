@@ -37,18 +37,13 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 - used a rubber mallet
 - used a wrench
 
-
-## Implementation
-
-[Explain how you created this artifact. Describe the major decisions, technical work, problem-solving, testing, troubleshooting, or revisions involved.]
-
 [Include process images if they help explain your work.]
 ![Describe image](PROCESS-IMAGE.png)
 
 
 ## What I Learned
 
-I learned how annoying cable managment can be and now next project that involves cable managment im going to keep it in mind from the start of the project to trhe end so i dont make it more complicated for myself.
+I learned how annoying cable managment can be and now next project that involves cable managment im going to keep it in mind from the start of the project to trhe end so i dont make it more complicated for myself and that its importantto have other tools on hand in case you need them even if the instruction manual says their not required when constructing something. 
 
 ---
 
