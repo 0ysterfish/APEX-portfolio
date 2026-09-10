@@ -31,7 +31,7 @@ eosamalianderson@gmail.com
 - **Tools:** [Wireshark, Packet Tracer, Linux command line, virtualization platform]
 
 ### Language Skills
-- World language and proficiency 
+- ASL 1
 
 > Delete categories that do not apply. Add specific skills only when you can explain or demonstrate them.
 

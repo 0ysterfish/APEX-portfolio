@@ -47,17 +47,17 @@ This is a one page guide I made about the three lenses to illustrate my knowlege
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
+### [Server rack layout proposal]
 <p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+A PNG of a rack layout design i made for APEXs sandbox server rack.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">[resposibility and relability]</span>
+<span class="skill-tag">[Ablility to improve with feedback]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Rack layout/)
 
 </div>
 
