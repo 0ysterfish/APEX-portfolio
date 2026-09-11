@@ -50,7 +50,7 @@ This is a one page guide I made about the three lenses to illustrate my knowlege
 ### [Server rack layout proposal]
 <p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
 
-A PNG of a rack layout design i made for APEXs sandbox server rack.
+A PNG of a rack layout design I made for APEXs sandbox server rack.
 
 **Skills demonstrated:**
 

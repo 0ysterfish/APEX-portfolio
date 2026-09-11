@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Three lenses feild guide
-
+---
 # Three lenses feild guide
 
 <p class="artifact-meta"> PDF | August 2026 </p>
-
 ## Summary
 
 A one page guide I made about the three lenses to illustrate my knowlege on networking security and IA
