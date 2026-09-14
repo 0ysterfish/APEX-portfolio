@@ -19,8 +19,8 @@ I joined the Apex Cybersecurity Pathway because I've always had an interest in c
 
 Through this program, I am developing experience with:
 
-- [Skill, technology, or practice]
-- [Skill, technology, or practice]
+- Networking, security, and IA
+- professionalism 
 - [Skill, technology, or practice]
 - [Skill, technology, or practice]
 
