@@ -9,7 +9,7 @@ title: CS-lab workstation
 
 ## Summary
 
-this is an image of one of the workstations I assembled and set up with my assaigned partner, Jasiahs, for the CS lab launch. during this project we assembled the monitors, did our best at cable management, and tested the workstations to make sure they functioned well. 
+this is an image of one of the workstations I assembled and set up with my assigned partner, Jasiahs, for the CS lab launch. during this project we assembled the monitors, did our best at cable management, and tested the workstations to make sure they functioned well. 
 as well as an image of me setting up the server rack with my college Nyx. we overcame roadblocks caused by not having the necessary tools and started assembling our class server rack.
 **Project:** CS lab launch
 
@@ -28,7 +28,7 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 ## Skills Demonstrated
 
 <span class="skill-tag">collaboration</span>
-<span class="skill-tag">resposibility and relability</span>
+<span class="skill-tag">responsibility and reliability</span>
 <span class="skill-tag">[Skill]</span>
 
 ## Tools and Technologies
@@ -43,7 +43,7 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 
 ## What I Learned
 
-I learned how annoying cable managment can be and now next project that involves cable managment im going to keep it in mind from the start of the project to trhe end so i dont make it more complicated for myself and that its importantto have other tools on hand in case you need them even if the instruction manual says their not required when constructing something. 
+I learned how annoying cable management can be and now next project that involves cable management keeping it in mind from the start of the project to the end so i don't make it more complicated for myself and that its important to have other tools on hand in case you need them even if the instruction manual says their not required when constructing something. 
 
 ---
 

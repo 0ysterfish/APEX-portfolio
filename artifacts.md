@@ -18,8 +18,7 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 ### CS-lab workstation and rack setup
 <p class="artifact-meta">Image | August 2026</p>
 
-this is an image of one of the computer workstations I assembled and set up with my college, Jasiahs, for the CS lab launch. during this project we assembled the monitors, did our best at cable management, and tested the workstations to make sure they functioned well. 
-as well as an image of me setting up the server rack with my college Nyx. we overcame roadblocks caused by not having the necessary tools and started assembling our class server rack.
+CS lab station i set up and server rack.
 
 **Skills demonstrated:**
 
@@ -35,7 +34,7 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 ### Three lense field guide
 <p class="artifact-meta">[PDF] | [August 2026]</p>
 
-This is a one-page guide I created about the three lenses to demonstrate my knowledge of networking security and AI. I took notes and learned key concepts, including the CIA Triad, the three lenses, and the three states of data.
+This is a one-page guide I created about the three lenses to demonstrate my knowledge of networking security and AI.
 
 **Skills demonstrated:**
 
