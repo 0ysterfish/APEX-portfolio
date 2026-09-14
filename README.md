@@ -4,11 +4,11 @@ This repository contains my student portfolio for the **Apex Cybersecurity Pathw
 
 ## Portfolio
 
-**[Open Portfolio](https://iggythefish.github.io/APEX-portfolio/)**
+**[Open Portfolio](https://0ysterfish.github.io/APEX-portfolio/)**
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to either go into the avation or cyber security field. I am interested in interests 
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to either go into the aviation or cyber security field. I am interested in Aviation and cybersecurity 
 
 ## Portfolio Contents
 
@@ -37,6 +37,4 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
-- **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **GitHub:** [@0ysterfish](https://github.com/0ysterfish)

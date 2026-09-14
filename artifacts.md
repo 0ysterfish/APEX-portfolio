@@ -32,10 +32,10 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 
 <div class="artifact-card" markdown="1">
 
-### Three lense feild guide
+### Three lense field guide
 <p class="artifact-meta">[PDF] | [August 2026]</p>
 
-This is a one page guide I made about the three lenses to illustrate my knowlege on networking security and IA. I took notes and learnt key concepts including, the CIA triad, The three lenses, and the three states of data.
+This is a one-page guide I created about the three lenses to demonstrate my knowledge of networking security and AI. I took notes and learned key concepts, including the CIA Triad, the three lenses, and the three states of data.
 
 **Skills demonstrated:**
 
@@ -54,8 +54,8 @@ A PNG of a rack layout design I made for APEXs sandbox server rack.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[resposibility and relability]</span>
-<span class="skill-tag">[Ablility to improve with feedback]</span>
+<span class="skill-tag">[responsibility and reliability]</span>
+<span class="skill-tag">[Ability to improve with feedback]</span>
 
 [View Artifact](artifacts/Rack layout/)
 
