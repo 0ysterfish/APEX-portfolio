@@ -37,9 +37,6 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 - used a rubber mallet
 - used a wrench
 
-[Include process images if they help explain your work.]
-![Describe image](PROCESS-IMAGE.png)
-
 
 ## What I Learned
 
