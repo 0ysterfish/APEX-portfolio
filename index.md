@@ -7,7 +7,7 @@ title: Home
 
 ## Apex Cybersecurity Portfolio
 
-Welcome to my portfolio. I am an Apex student building skills in cybersecurity, system administration, and other areas. 
+Welcome to my portfolio. I am an Apex student building skills in cyber security, system administration, and other areas. 
 
 This site contains selected work that demonstrates my technical abilities, design process, problem-solving, collaboration, and growth.
 

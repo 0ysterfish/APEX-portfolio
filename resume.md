@@ -5,7 +5,7 @@ title: Resume
 
 # Iggy Anderson
 
-boulder, colorado 
+boulder, Colorado 
 eosamalianderson@gmail.com  
 (https://github.com/Iggythefish)  
 [Portfolio and/or LinkedIn link]
@@ -100,7 +100,7 @@ Delete this section until you have a certification, credential, or certification
 
 ### New vista high school
 
-boulder, colorado  
+boulder, Colorado  
 Expected graduation: may 2028
 
 ### Apex [Creative Computing / Cybersecurity] Pathway

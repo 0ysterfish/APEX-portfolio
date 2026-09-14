@@ -9,21 +9,21 @@ title: CS-lab workstation
 
 ## Summary
 
-PNG of a Rack layout proposal for our Sandbox Network rack that I reshearched guidelines for and make a first draft, that I later got feedback on and revised to improve the design. 
+PNG of a Rack layout proposal for our Sandbox Network rack that I researched guidelines for and make a first draft, that I later got feedback on and revised to improve the design. 
 **Project:** CS lab launch
 
-**My role:** I read guidelines and looked at an exapmle of a rack layout and proposed my own design that got feedback that helped me inprove the design. 
+**My role:** I read guidelines and looked at an example of a rack layout and proposed my own design that got feedback that helped me improve the design. 
 
 ## The Artifact
 
-PNG of my racklayout proposal (Untitled Diagram.drawio.png)
+PNG of my rack layout proposal (Untitled Diagram.drawio.png)
 
 [View the full artifact](Untitled Diagram.drawio.png)
 
 ## Skills Demonstrated
 
-<span class="skill-tag">resposibility and relability</span>
-<span class="skill-tag">Ablility to improve with feedback</span>
+<span class="skill-tag">responsibility and reliability</span>
+<span class="skill-tag">Ability to improve with feedback</span>
 
 ## Tools and Technologies
 
