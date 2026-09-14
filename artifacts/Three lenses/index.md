@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Three lenses feild guide
+title: Three lenses field guide
 ---
-# Three lenses feild guide
+# Three lenses field guide
 
 <p class="artifact-meta"> PDF | August 2026 </p>
 ## Summary
 
-A one page guide I made about the three lenses to illustrate my knowlege on networking security and IA
+A one page guide I made about the three lenses to illustrate my knowledge on networking security and IA
 
 **Project:** Three Lenses
 
@@ -15,10 +15,7 @@ A one page guide I made about the three lenses to illustrate my knowlege on netw
 
 ## The Artifact
 
-!pdf of my feild guide (THREE LENSE FEILD GUIDE.png)
-
-[View the full artifact](THREE LENSE FEILD GUIDE.png)
-
+![pdf of my field guide](THREE LENSE FEILD GUIDE.png)
 
 ## Skills Demonstrated
 

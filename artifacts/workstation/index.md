@@ -17,13 +17,9 @@ as well as an image of me setting up the server rack with my college Nyx. we ove
 
 ## The Artifact
 
-!Image of workstation 12 (workstation.jpeg)
+![Image of workstation 12](workstation.jpeg)
 
-[View the full artifact](workstation.jpeg)
-
-!Image of Server rack in progress (rack_1.jpg)
-
-[View the full artifact](rack_1.jpg)
+![Image of Server rack in progress](rack_1.jpg)
 
 ## Skills Demonstrated
 
