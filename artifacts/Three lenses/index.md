@@ -26,10 +26,6 @@ A one page guide I made about the three lenses to illustrate my knowledge on net
 - used Canva
 
 
-[Include process images if they help explain your work.]
-![Describe image](PROCESS-IMAGE.png)
-
-
 ## What I Learned
 
 I learned the key concepts of the three lenses, the CIA triad, the 3 states of data and threats vulnerabilities risks and controls. 

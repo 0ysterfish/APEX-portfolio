@@ -27,13 +27,9 @@ PNG of a Rack layout proposal for our Sandbox Network rack that I researched gui
 
 - used DRAW io
 
-[Include process images if they help explain your work.]
-![Describe image](PROCESS-IMAGE.png)
-
-
 ## What I Learned
 
-I learned how to construct a good server rack layout and how to incorporate feedback into my work. 
+I learned how to construct a good server rack layout and how to incorporate feedback into my work.
 
 ---
 
