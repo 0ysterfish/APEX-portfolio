@@ -16,7 +16,7 @@ PNG of a Rack layout proposal for our Sandbox Network rack that I researched gui
 
 ## The Artifact
 
-1[PNG of my rack layout proposal](Untitled Diagram.drawio.png)
+![PNG of my rack layout proposal](Untitled Diagram.drawio.png)
 
 ## Skills Demonstrated
 
