@@ -46,9 +46,6 @@ This is a one-page guide I created about the three lenses to demonstrate my know
 
 <div class="artifact-card" markdown="1">
 
----
-## All Artifacts
-
 ## [risk mitigation brief]
 <p class="artifact-meta">[PDF file] | [September 2026]</p>
 
