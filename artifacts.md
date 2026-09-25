@@ -63,17 +63,16 @@ A PNG of a rack layout design I made for APEXs sandbox server rack.
 ---
 ## All Artifacts
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## [risk mitigation brief]
+<p class="artifact-meta">[PDF file] | [September 2026]</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+These are three case study briefs I completed. I identified the vulnerability, explained the chosen management strategy, determined whether it was proactive or reactive, and predicted what would have happened if the company had taken a different approach.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">[anaylysis]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/risk management breif/)
 
 
 ---
