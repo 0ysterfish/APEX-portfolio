@@ -46,20 +46,6 @@ This is a one-page guide I created about the three lenses to demonstrate my know
 
 <div class="artifact-card" markdown="1">
 
-### [Server rack layout proposal]
-<p class="artifact-meta">[PNG] | [September 2026]</p>
-
-A PNG of a rack layout design I made for APEXs sandbox server rack.
-
-**Skills demonstrated:**
-
-<span class="skill-tag">[responsibility and reliability]</span>
-<span class="skill-tag">[Ability to improve with feedback]</span>
-
-[View Artifact](artifacts/Rack layout/)
-
-</div>
-
 ---
 ## All Artifacts
 
