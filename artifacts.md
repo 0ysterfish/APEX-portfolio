@@ -57,6 +57,8 @@ These are three case study briefs I completed. I identified the vulnerability, e
 
 [View Artifact](artifacts/risk management breif/)
 
+</div>
+
 
 
 
