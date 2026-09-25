@@ -46,7 +46,7 @@ This is a one-page guide I created about the three lenses to demonstrate my know
 
 <div class="artifact-card" markdown="1">
 
-## [risk mitigation brief]
+### [risk mitigation brief]
 <p class="artifact-meta">[PDF file] | [September 2026]</p>
 
 These are three case study briefs I completed. I identified the vulnerability, explained the chosen management strategy, determined whether it was proactive or reactive, and predicted what would have happened if the company had taken a different approach.
@@ -56,6 +56,8 @@ These are three case study briefs I completed. I identified the vulnerability, e
 <span class="skill-tag">[anaylysis]</span>
 
 [View Artifact](artifacts/risk management breif/)
+
+
 
 
 ---
