@@ -55,7 +55,7 @@ These are three case study briefs I completed. I identified the vulnerability, e
 
 <span class="skill-tag">[anaylysis]</span>
 
-[View Artifact](artifacts/risk management breif/)
+[View Artifact](artifacts/Risk management breif/)
 
 </div>
 
