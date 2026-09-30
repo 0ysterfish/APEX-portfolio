@@ -24,6 +24,7 @@ I wrote three briefs on three companies' risk management strategies.
 ## What I Learned
 
 I used my analysis skills to study three case studies on companies and improve my understanding of risk management.
+
 ---
 
 [Return to All Artifacts]({{ '/artifacts.html' | relative_url }})
