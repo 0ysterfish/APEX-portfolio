@@ -18,7 +18,7 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 ### CS-lab workstation and rack setup
 <p class="artifact-meta">Image | August 2026</p>
 
-CS lab station i set up and server rack.
+CS lab station I set up and server rack.
 
 **Skills demonstrated:**
 
@@ -32,7 +32,7 @@ CS lab station i set up and server rack.
 <div class="artifact-card" markdown="1">
 
 ### Three lense field guide
-<p class="artifact-meta">[PDF] | [August 2026]</p>
+<p class="artifact-meta">PDF | August 2026</p>
 
 This is a one-page guide I created about the three lenses to demonstrate my knowledge of networking security and AI.
 
@@ -40,22 +40,22 @@ This is a one-page guide I created about the three lenses to demonstrate my know
 
 <span class="skill-tag">Able to define key concepts</span>
 
-[View Artifact](artifacts/Three lenses/)
+[View Artifact](artifacts/three_lenses/)
 
 </div>
 
 <div class="artifact-card" markdown="1">
 
 ### [risk mitigation brief]
-<p class="artifact-meta">[PDF file] | [September 2026]</p>
+<p class="artifact-meta">PDF file | [September 2026]</p>
 
 These are three case study briefs I completed. I identified the vulnerability, explained the chosen management strategy, determined whether it was proactive or reactive, and predicted what would have happened if the company had taken a different approach.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Anaylysis]</span>
+<span class="skill-tag">Anaylysis</span>
 
-[View Artifact](artifacts/Risk management breif/)
+[View Artifact](artifacts/risk_management_brief/)
 
 </div>
 
