@@ -15,7 +15,7 @@ I wrote three briefs on three companies' risk management strategies.
 
 ## The Artifact
 
-[pdf of Risk Management brief](risk mitigation breif.pdf)
+[pdf of Risk Management brief](risk_management_brief.pdf)
 
 ## Skills Demonstrated
 
