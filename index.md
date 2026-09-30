@@ -44,4 +44,4 @@ My current goal is to pass this course and understand the working of cyber secur
 
 - [View My Resume](resume.md)
 - [View All Artifacts](artifacts.md)
-- [View My GitHub Profile](https://github.com/USERNAME)
+- [View My GitHub Profile](https://github.com/0ysterfish)
